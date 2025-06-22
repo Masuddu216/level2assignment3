@@ -2,7 +2,7 @@
 
 A RESTful Library Management System built with **Express**, **TypeScript**, and **MongoDB (Mongoose)**. This API enables you to manage a catalog of books, borrow books, and track inventory efficiently.
 
----
+--- 
 
 ## ✅ Features
 
