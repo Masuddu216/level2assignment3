@@ -92,7 +92,6 @@ Request:
 }
 
 Response:
-
 {
   "success": true,
   "message": "Book created successfully",
